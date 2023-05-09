@@ -7,30 +7,44 @@
   "aboutMe": {
     "profile": {
       "name": "Alvaro",
-      "surnames": "Cuesta Viñolo",
+      "surnames": "Cuesta V.",
       "title": "Software Engineer en Manfred :)",
+      "description": "Developer at manfred since 2022",
       "avatar": {
-        "alt": "IMG_9390.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/22/5bcfaa8b-401a-42d1-98f8-0988d9fc17fe_img_9390.jpg"
+        "alt": "1517343247880 (1).jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/9d9cfb5d-e6cd-4062-ac05-6e345e13b78f_1517343247880-(1).jpeg"
       },
       "location": {
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid",
         "notes": "Autocompleted using Google Maps API"
       }
-    }
+    },
+    "relevantLinks": [
+      {
+        "type": "github",
+        "URL": "https://github.com/acuesta"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alcuvi/"
+      }
+    ]
   },
   "experience": {
     "jobs": [
       {
         "organization": {
-          "name": "Cámara de Comercio de Bilbao"
+          "name": "Manfred "
         },
         "roles": [
           {
-            "name": "Directora de Marketing y Transformación Digital",
-            "startDate": "2020-07-01",
+            "name": "Sotware Engineer",
+            "startDate": "2022-01-01",
             "challenges": [
               {
-                "description": "Actualmente soy Directora de Marketing y Transformación Digital de la Cámara de Comercio, Industria y Navegación de Bilbao. Entre mis funciones se encuentran definir el proceso de transformación digital dentro de Cámarabilbao a través de la implantación de nuevas metodologías de trabajo y de la capacitación del equipo humano.  Así mismo me encargo de la definición y desarrollo de productos y servicios orientados al tejido empresarial bizkaino con el objetivo de que  evolucionen y crezcan en clave digital. También tengo bajo mi responsabilidad la captación de alumnos para la Escuela de Negocios, la academia de idiomas y el grado universitario que alberga la Cámara, así como la captación de empresas para el desarrollo de programas públicos gestionados por la organización."
+                "description": "Node Backend developer"
               }
             ]
           }
@@ -38,15 +52,16 @@
       },
       {
         "organization": {
-          "name": "Cámara de Comercio de Bilbao "
+          "name": "Payvision"
         },
         "roles": [
           {
-            "name": "Responsable de la Oficina de Transformación Digital",
-            "startDate": "2019-04-01",
+            "name": "Software Engineer",
+            "startDate": "2020-09-01",
+            "finishDate": "2022-01-31",
             "challenges": [
               {
-                "description": "Liderar la definición e implantación de nuevas 𝗺𝗲𝘁𝗼𝗱𝗼𝗹𝗼𝗴í𝗮𝘀 𝗱𝗲 𝘁𝗿𝗮𝗯𝗮𝗷𝗼 𝘆 𝗱𝗲 𝗹𝗮 𝗰𝗮𝗽𝗮𝗰𝗶𝘁𝗮𝗰𝗶𝗼́𝗻 𝗱𝗲𝗹 𝗽𝗲𝗿𝘀𝗼𝗻𝗮𝗹. Definir y desarrollar 𝗻𝘂𝗲𝘃𝗼𝘀 𝗽𝗿𝗼𝗱𝘂𝗰𝘁𝗼𝘀 𝘆 𝘀𝗲𝗿𝘃𝗶𝗰𝗶𝗼𝘀 𝗼𝗿𝗶𝗲𝗻𝘁𝗮𝗱𝗼𝘀 𝗮𝗹 𝘁𝗲𝗷𝗶𝗱𝗼 𝗲𝗺𝗽𝗿𝗲𝘀𝗮𝗿𝗶𝗮𝗹 bizkaino con el objetivo de que  evolucionen y crezcan 𝗲𝗻 𝗰𝗹𝗮𝘃𝗲 𝗱𝗶𝗴𝗶𝘁𝗮𝗹"
+                "description": "Node Backend developer"
               }
             ]
           }
@@ -54,16 +69,16 @@
       },
       {
         "organization": {
-          "name": "El Diario Vasco (Vocento)"
+          "name": "Klikin"
         },
         "roles": [
           {
-            "name": "Responsable de Marketing Digital",
-            "startDate": "2013-01-01",
-            "finishDate": "2019-03-31",
+            "name": "Software Engineer",
+            "startDate": "2018-04-01",
+            "finishDate": "2020-08-31",
             "challenges": [
               {
-                "description": "Liderar la 𝗲𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗮 𝘆 𝘁𝗮́𝗰𝘁𝗶𝗰𝗮 𝗱𝗲𝗹 𝗽𝗹𝗮𝗻 𝗱𝗲 𝗺𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 de la compañía  a través de la gestión y optimización del presupuesto desempeñando las siguientes labores:\n\n♦ 𝗔𝗻𝗮𝗹í𝘁𝗶𝗰𝗮: monitorización, análisis de tráfico, establecimiento de KPIs relevantes y elaboración de cuadros de mando reportando a dirección general (Google Analytics, Nielsen SiteCensus, Comscore, Adobe Omniture, QlikView). \n\n♦ 𝗦𝗼𝗰𝗶𝗮𝗹 𝗠𝗲𝗱𝗶𝗮: diseño, planificación, desarrollo y medición de estrategias  (Hootsuite, Welovroi, Audiense, SocialBakers).\n\n♦ 𝗦𝗘𝗢/𝗦𝗘𝗠: captación de tráfico a través de la optimización del posicionamiento en buscadores (SEO), Social Ads y Maketing de Buscadores (SEM). \n\n♦ 𝗣𝘂𝗯𝗹𝗶𝗰𝗶𝗱𝗮𝗱 𝗗𝗶𝗴𝗶𝘁𝗮𝗹: soporte y resolución de incidencias de herramientas de adserving (DFP, Videoplaza, Mediamind).  Planificación, monitorización y reporting de campañas display. \n\n♦ 𝗖𝗥𝗠: definir, recomendar la política de CRM (Gigya) y ejecutar acciones con el objetivo de establecer estrategias de reclutamiento, fidelización , incremento y cualificación de la Base de Datos así como su gestión, segmentación y desarrollo para acciones de e-mail marketing (Xcampaign, Mailchimp, Selligent).\n\n♦ 𝗗𝗶𝗿𝗲𝗰𝗰𝗶𝗼́𝗻 𝗱𝗲 𝗽𝗿𝗼𝘆𝗲𝗰𝘁𝗼𝘀: coordinación de equipos multidisciplinares formado por desarrolladores, diseñadores y redactores. Asignación de labores, realización de informes y planificación de timings para webs de información, fidelización  y comercio electrónico.\n\n♦ Durante este periodo colaboré de forma activa y continuada con el equipo de 𝗘𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗮 𝗗𝗶𝗴𝗶𝘁𝗮𝗹 𝗱𝗲 𝗩𝗼𝗰𝗲𝗻𝘁𝗼 en la 𝗶𝗺𝗽𝗹𝗮𝗻𝘁𝗮𝗰𝗶𝗼́𝗻 𝗱𝗲𝗹 𝗺𝘂𝗿𝗼 𝗱𝗲 𝗽𝗮𝗴𝗼 𝗢𝗡+ y posterior desarrollo en la 𝗰𝗮𝗽𝘁𝗮𝗰𝗶𝗼́𝗻 𝘆 𝗳𝗶𝗱𝗲𝗹𝗶𝘇𝗮𝗰𝗶𝗼́𝗻 𝗱𝗲 𝘀𝘂𝘀𝗰𝗿𝗶𝗽𝘁𝗼𝗿𝗲𝘀."
+                "description": "Node Backend developer"
               }
             ]
           }
@@ -71,16 +86,16 @@
       },
       {
         "organization": {
-          "name": "Varias entidades "
+          "name": "TwoToForty (Matching personas and Business) "
         },
         "roles": [
           {
-            "name": "Ponencias y Masterclass en Escuelas de Negocio",
-            "startDate": "2010-01-01",
-            "finishDate": "2015-05-31",
+            "name": "Software Engineer",
+            "startDate": "2016-12-01",
+            "finishDate": "2018-04-30",
             "challenges": [
               {
-                "description": "♦ 𝗚𝗢𝗢𝗚𝗟𝗘 𝗔𝗖𝗧𝗜́𝗩𝗔𝗧𝗘 (Bilbao, mayo 2015): Ponencia \"𝗣𝘂𝗯𝗹𝗶𝗰𝗶𝗱𝗮𝗱 𝗗𝗶𝘀𝗽𝗹𝗮𝘆: 𝗰𝗼𝗺𝗽𝗿𝗮/𝘃𝗲𝗻𝘁𝗮 𝗽𝗿𝗼𝗴𝗿𝗮𝗺𝗮́𝘁𝗶𝗰𝗮 𝘆 𝗥𝗧𝗕 𝗲𝗻 𝗺𝗲𝗱𝗶𝗼𝘀\" para el proyecto formativo Actívate. Una iniciativa de Google y distintos socios y colaboradores, que tiene como objetivo formar a jóvenes en competencias digitales.\n\n♦ 𝗔𝗘𝗥𝗖𝗢-𝗣𝗦𝗠𝗣, 𝗔𝘀𝗼𝗰𝗶𝗮𝗰𝗶𝗼́𝗻 𝗘𝘀𝗽𝗮ñ𝗼𝗹𝗮 𝗱𝗲 𝗥𝗲𝘀𝗽𝗼𝗻𝘀𝗮𝗯𝗹𝗲𝘀 𝗱𝗲 𝗖𝗼𝗺𝘂𝗻𝗶𝗱𝗮𝗱 (Donostia - San Sebastián, abril 2014): \"𝗦𝗘𝗢 𝘆 𝗿𝗲𝗱𝗲𝘀 𝘀𝗼𝗰𝗶𝗮𝗹𝗲𝘀, ¿𝘂𝗻 𝗺𝗮𝘁𝗿𝗶𝗺𝗼𝗻𝗶𝗼 𝗯𝗶𝗲𝗻 𝗮𝘃𝗲𝗻𝗶𝗱𝗼? \" se trata de profundizar en la beneficiosa relación entre el social media y el posicionamiento en buscadores, así como los beneficios que pueden ofrecer cuando sus estrategias están bien alineadas. Esta ponencia se encuentra enmarcada dentro de los encuentros organizados por #AERCOGipuzkoa con el objetivo de reunir a profesionales del social media con el fin de profundizar en temas relacionados con el sector.\n\n♦ 𝗘𝗦𝗗𝗘𝗡 𝗕𝗨𝗦𝗜𝗡𝗘𝗦𝗦 𝗦𝗖𝗛𝗢𝗢𝗟, Escuela de Negocios (Vitoria -Gasteiz, marzo 2011): Impartición de Masterclass: \"𝗘𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗮𝘀 𝗦𝗘𝗢 / 𝗦𝗘𝗠 𝗲𝗻 𝗺𝗲𝗱𝗶𝗼𝘀 𝗱𝗲 𝗰𝗼𝗺𝘂𝗻𝗶𝗰𝗮𝗰𝗶𝗼́𝗻\"\n\n♦ 𝗦𝗘𝗔𝗥𝗖𝗛 𝗖𝗢𝗡𝗚𝗥𝗘𝗦𝗦 (Bilbao, enero 2010): Impartición del Workshop \"𝗣𝗼𝘀𝗶𝗰𝗶𝗼𝗻𝗮𝗺𝗶𝗲𝗻𝘁𝗼 𝗲𝗻 𝗯𝘂𝘀𝗰𝗮𝗱𝗼𝗿𝗲𝘀 𝗲𝗻 𝘂𝗻𝗮 𝗲𝘀𝘁𝗿𝗮𝘁𝗲𝗴𝗶𝗮 𝟯𝟲𝟬º 𝗽𝗮𝗿𝗮 𝗺𝘂𝗹𝘁𝗶𝗽𝗹𝗶𝗰𝗮𝗿 𝗮𝘂𝗱𝗶𝗲𝗻𝗰𝗶𝗮𝘀\""
+                "description": "Desarrollo de una plataforma para la evaluación de empleados mediante cuestionarios individuales y cruzados.\nTecnologías empleadas: Java, Spring, Angular 2, AWS, mongo."
               }
             ]
           }
@@ -88,16 +103,16 @@
       },
       {
         "organization": {
-          "name": "El Diario Vasco (Vocento)"
+          "name": "DIGIBIS"
         },
         "roles": [
           {
-            "name": "Responsable SEO/SEM",
-            "startDate": "2008-07-01",
-            "finishDate": "2012-12-31",
+            "name": "Consultor tecnológico",
+            "startDate": "2015-03-01",
+            "finishDate": "2016-12-31",
             "challenges": [
               {
-                "description": "Responsable del 𝗱𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗼 𝗱𝗲 𝗮𝘂𝗱𝗶𝗲𝗻𝗰𝗶𝗮𝘀 a través de buscadores:\n\n♦ 𝗦𝗘𝗢: Planificación de la estrategia de posicionamiento orgánico (seo on-page y off-page) a través de la monitorización de rankings de búsqueda, definición e implementación de la estrategia de link building, asesoramiento editorial al equipo redacción sobre parámetros de redacción web (SEO copywriting), prospección de palabras clave con altos índices de buscabilidad, benchmarking y mejora de la experiencia de usuario (usabilidad, accesibilidad y arquitectura de la información)\n\n♦ 𝗦𝗘𝗠: Desarrollar, implementar y gestionar estrategias de búsquedas pagadas (Pay-Per-Click) mediante la creación y gestión de campañas de Google adwords así como la definición de contenidos y \narquitectura para landing page. Asesoramiento y optimización de presupuestos para mejorar el ROI\nAnalítica web (Nielsen, Google Analytics), establecimiento de KPI,s relevantes y elaboración de informes y cuadros de mando.\n\n♦ 𝗗𝗲𝗳𝗶𝗻𝗶𝗰𝗶𝗼́𝗻 𝘆 𝗱𝗶𝗿𝗲𝗰𝗰𝗶𝗼́𝗻 𝗱𝗲 𝗽𝗿𝗼𝘆𝗲𝗰𝘁𝗼𝘀: coordinación de equipos multidisciplinares formado por desarrolladores, diseñadores y redactores. Asignación de labores, realización de informes y planificación de timings.\n\n♦ Durante este periodo formé parte del equipo 𝗦𝗘𝗢 𝗱𝗲 𝗩𝗼𝗰𝗲𝗻𝘁𝗼 en Madrid definiendo e implementando las estrategia de 𝗼𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝗰𝗶𝗼́𝗻 𝗽𝗮𝗿𝗮 𝗯𝘂𝘀𝗰𝗮𝗱𝗼𝗿𝗲𝘀 𝗱𝘂𝗿𝗮𝗻𝘁𝗲 𝗱𝗲𝗹 𝗿𝗲𝗱𝗶𝘀𝗲ñ𝗼 𝗱𝗲 𝘁𝗼𝗱𝗮𝘀 𝗹𝗮𝘀 𝗰𝗮𝗯𝗲𝗰𝗲𝗿𝗮𝘀 𝗱𝗲𝗹 𝗴𝗿𝘂𝗽𝗼."
+                "description": "- Introducción de las técnicas de Scrum y kanban como herramientas de desarrollo en el equipo.\n- Migración de la aplicación Digihub para adaptarla a las nuevas necesidades de los clientes.\n- Implementación de nueva funcionalidad sobre las aplicaciones Digihub, DigiArch y Digibib (recolector OAI-PMH, archivos y bibliotecas).\n- Definición de la arquitectura en el arranque de los proyectos nuevos.\n- Implementación de un API REST que cubra el modelo de préstamo bibliotecario.\n- Securización e integración del API REST con las aplicaciones actuales."
               }
             ]
           }
@@ -105,16 +120,16 @@
       },
       {
         "organization": {
-          "name": "Veiss Comunicación y Tecnología"
+          "name": "Autentia Real Business Solutions SL"
         },
         "roles": [
           {
-            "name": "Directora de Marketing Digital",
-            "startDate": "2007-01-01",
-            "finishDate": "2008-06-30",
+            "name": "Consultor tecnológico",
+            "startDate": "2010-04-01",
+            "finishDate": "2015-02-28",
             "challenges": [
               {
-                "description": "Trabajando en las áreas de 𝗺𝗮𝗿𝗸𝗲𝘁𝗶𝗻𝗴 𝗲𝘀𝘁𝗿𝗮𝘁𝗲́𝗴𝗶𝗰𝗼 𝘆 𝗼𝗽𝗲𝗿𝗮𝘁𝗶𝘃𝗼 desempeñando las siguientes funciones: elaboración y aplicación del plan de marketing, asesoramiento y participación en la estrategia corporativa, supervisión y gestión de contenidos, web marketing (lead generation, programas de afiliación, posicionamiento en buscadores (seo/sem), generación de tráfico, e-mailings...), gestión de dominios y proveedores de internet."
+                "description": "Desarrollo en equipos de arquitectura realizando las siguientes funciones:\n- Diseño e implementación de arquitecturas basadas en REST.\n- Diseño, modelado e implementación de recursos REST.\n- Participación en grupos de supervisión tanto del modelado de recursos como de la correcta implementación de los mismos.\n- Implantación de metologías ágiles: Scrum y Kanban.\n- Construcción de un simulador REST, capaz de funcionar en modo proxy junto con una aplicación para su administración.\n- Empleo de herramientas para el seguimiento de proyectos: JIRA, Greenhooper, Pivotal Tracker.\n\nTecnologías:\n- Java: Spring, Spring Security, JSF, Struts, EJBs, JPA, Spring ROO, Hibernate, Alfresco, Solr, Mule ESB, JMS.\n- Javascript: Backbone, Marionette, Require.\n- Web: HTML5, CSS3, Javascript, jQuery.\n- Gestión de la configuración: Maven, Ant.\n- Control de versiones: Git, Subversion, CVS, Accurev\n- Test automáticos y calidad de código: JUnit, Powermock, mockito, Selenium, Jenkins, JMeter.\n- Obtención de métricas para analizar la calidad del cógido: Sonar.\n- Bases de datos: Oracle, MySQL, PostgreSQL, SQL Server, Liquibase.\n- Servidores de aplicaciones/web: JBoss, Tomcat, Jetty."
               }
             ]
           }
@@ -122,16 +137,50 @@
       },
       {
         "organization": {
-          "name": "UGT Unión General de Trabajadoras y Trabajadores"
+          "name": "Steria"
         },
         "roles": [
           {
-            "name": "Jefe de proyectos de productos de e-learning",
-            "startDate": "2006-06-01",
-            "finishDate": "2006-12-31",
+            "name": "Analista - programador",
+            "startDate": "2008-09-01",
+            "finishDate": "2010-03-31",
             "challenges": [
               {
-                "description": "𝗗𝗶𝗿𝗲𝗰𝗰𝗶𝗼́𝗻 𝘆 𝗰𝗼𝗼𝗿𝗱𝗶𝗻𝗮𝗰𝗶𝗼́𝗻 de un equipo multidisciplinar formado por pedagogos, ilustradores, programadores y maquetadores; planificación de procesos y timings, asignación de tareas y realización de informes de rendimiento para el 𝗱𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗼 𝗲 𝗶𝗺𝗽𝗹𝗲𝗺𝗲𝗻𝘁𝗮𝗰𝗶𝗼́𝗻 𝗱𝗲 𝗰𝘂𝗿𝘀𝗼𝘀 𝗼𝗻𝗹𝗶𝗻𝗲 𝗱𝗲 𝗳𝗼𝗿𝗺𝗮𝗰𝗶𝗼́𝗻 𝗰𝗼𝗻𝘁𝗶𝗻𝘂𝗮."
+                "description": "Desarrollo de diversos proyectos J2EE para la administración pública.\nConocimientos adquiridos:\n - Struts\n - JAXB\n - Axis2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GrupoCMC - CognicaseManagementConsulting"
+        },
+        "roles": [
+          {
+            "name": "Analista - programador",
+            "startDate": "2008-01-01",
+            "finishDate": "2008-09-30",
+            "challenges": [
+              {
+                "description": "Desarrollo de diversas funcionalidades en java para una aplicación web de juntas de accionistas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Nurun | Crazy Labs"
+        },
+        "roles": [
+          {
+            "name": "Becario - mantenimiento de BBDD",
+            "startDate": "2007-03-01",
+            "finishDate": "2007-09-30",
+            "challenges": [
+              {
+                "description": "Automatización de los procesos de carga de registros (extracción, modificación e inserción) en bases de datos (SQL Server y MySQL) mediante el lenguaje PHP y\nTransac/SQL para el mantenimiento y gestión de diversas páginas web.\n- Diseño de animaciones en Flash 8.\n- Creación de banners.\n- Integración de páginas web diseñadas en Flash con PHP mediante el lenguaje\nActionScript 2.0."
               }
             ]
           }
@@ -140,190 +189,68 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Bulgarian",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Dutch",
+        "level": "Professional working proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Dropwizard",
+          "name": "Docker",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Prototype",
+          "name": "TypeScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Plastic SCM",
+          "name": "Amazon SQS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Navision",
+          "name": "AWS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Raspberry",
+          "name": "SQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Real Time",
+          "name": "Nginx",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Redmine",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Rest Assured",
+          "name": "NodeJS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "EJB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Pandas",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenCMS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Pascal",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Power Query",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Natural",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Nest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React Native",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redis",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Remedy",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Metricool",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "EKS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Odoo",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Objective-C",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PCI",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Plotly",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NEO4J",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ratpack",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Realm",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Rhinoceros",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "D3",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenERP",
+          "name": "ActiveMQ",
           "type": "technology"
         }
       },
@@ -335,119 +262,199 @@
       },
       {
         "skill": {
-          "name": "naxtis",
+          "name": "MongoDB",
           "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "M040: New Features and Tools in MongoDB 4.0",
+        "startDate": "2018-10-01",
+        "institution": {
+          "name": "Mongodb",
+          "description": "",
+          "URL": "http://university.mongodb.com/course_completion/c0523d31-640f-4343-8e8d-fb1f8096",
+          "image": {
+            "alt": "1635171226731.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/2c5ef910-e86f-4cb7-8374-5fe0ce2ccec5_1635171226731.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Learn and Understand NodeJS",
+        "startDate": "2016-11-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-KUOYM8RO/",
+          "image": {
+            "alt": "1626275253364.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/98b1d889-ebba-4e78-92e7-b5b572694ff8_1626275253364.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "MongoDB Atlas",
+        "startDate": "2016-09-01",
+        "institution": {
+          "name": "Mongodb",
+          "description": "",
+          "URL": "https://university.mongodb.com/course_completion/84bbddd240724df7aaca8cd174f268f9",
+          "image": {
+            "alt": "1635171226731.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/4c48a40c-a7e6-46d7-a19f-8bfc374fac55_1635171226731.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "MongoDB for Java Developers",
+        "startDate": "2016-08-01",
+        "institution": {
+          "name": "Mongodb",
+          "description": "",
+          "URL": "http://university.mongodb.com/course_completion/df2c0600d7fd479d8db9ab63f42b1382",
+          "image": {
+            "alt": "1635171226731.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/f8140ec7-1bca-41d1-a17d-6bc0c49c87bc_1635171226731.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JavaScript​: Understanding the Weird Parts",
+        "startDate": "2016-01-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-C6O8AX05/",
+          "image": {
+            "alt": "1626275253364.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/1d78ca03-8f95-4dfa-b401-f9bd81eb96bf_1626275253364.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Programación de Aplicaciones distribuidas J2EE",
+        "startDate": "2007-02-01",
+        "finishDate": "2007-06-01",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid",
+          "description": "Curso: Programación de Aplicaciones distribuidas J2EE (109 Horas)\nFacultad de Informática de la Universidad Politécnica de Madrid.\n• Principales materias o capacidades ocupacionales tratadas:\n- Servlets\n- JSP\n- EJBs\n- JBeans\n- Patrones de diseño\n- Servidor Apache-Tomcat\n- Servidor Jboss",
+          "image": {
+            "alt": "1519940485263.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/5314822e-df0d-4923-b82b-901bf7a6aff1_1519940485263.jpeg"
+          }
         }
       },
       {
-        "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redsys",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "REST",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Dagger2",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RabbitMQ",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenGL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Power Pivot",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Productboard",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elementor",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "RedHat",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redux-Saga",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Nessus",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "XCode",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Retrofit",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redshift",
-          "type": "technology"
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero técnico de Sistemas",
+        "startDate": "2004-11-01",
+        "finishDate": "2007-06-01",
+        "institution": {
+          "name": "Universidad Complutense de Madrid",
+          "description": "",
+          "image": {
+            "alt": "1519856536333.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/19fc9204-e9ea-430c-86f7-3e2a47f80822_1519856536333.jpeg"
+          }
         }
       }
     ]
   },
   "careerPreferences": {
-    "status": "searchingActively"
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/alcuvi/"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "AWS",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      ],
+      "preferredRoles": [
+        "Backend Developer"
+      ]
+    },
+    "status": "notAvailable"
   },
   "asgardPreferences": {
     "mainStackTechs": [
       {
-        "name": "OpenCMS",
+        "name": "TypeScript",
         "type": "technology"
       },
       {
-        "name": "Metricool",
+        "name": "AWS",
+        "type": "technology"
+      },
+      {
+        "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "PostgreSQL",
         "type": "technology"
       }
     ]
