@@ -140,6 +140,16 @@
     ]
   },
   "knowledge": {
+    "languages": [
+      {
+        "name": "Bulgarian",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "Dutch",
+        "level": "Professional working proficiency"
+      }
+    ],
     "hardSkills": [
       {
         "skill": {
@@ -433,6 +443,143 @@
         "skill": {
           "name": "Redshift",
           "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "M040: New Features and Tools in MongoDB 4.0",
+        "startDate": "2018-10-01",
+        "institution": {
+          "name": "Mongodb",
+          "description": "",
+          "URL": "http://university.mongodb.com/course_completion/c0523d31-640f-4343-8e8d-fb1f8096",
+          "image": {
+            "alt": "1635171226731.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/2c5ef910-e86f-4cb7-8374-5fe0ce2ccec5_1635171226731.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "Learn and Understand NodeJS",
+        "startDate": "2016-11-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-KUOYM8RO/",
+          "image": {
+            "alt": "1626275253364.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/98b1d889-ebba-4e78-92e7-b5b572694ff8_1626275253364.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "NodeJS",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "MongoDB Atlas",
+        "startDate": "2016-09-01",
+        "institution": {
+          "name": "Mongodb",
+          "description": "",
+          "URL": "https://university.mongodb.com/course_completion/84bbddd240724df7aaca8cd174f268f9",
+          "image": {
+            "alt": "1635171226731.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/4c48a40c-a7e6-46d7-a19f-8bfc374fac55_1635171226731.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "MongoDB for Java Developers",
+        "startDate": "2016-08-01",
+        "institution": {
+          "name": "Mongodb",
+          "description": "",
+          "URL": "http://university.mongodb.com/course_completion/df2c0600d7fd479d8db9ab63f42b1382",
+          "image": {
+            "alt": "1635171226731.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/f8140ec7-1bca-41d1-a17d-6bc0c49c87bc_1635171226731.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "MongoDB",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": false,
+        "name": "JavaScript​: Understanding the Weird Parts",
+        "startDate": "2016-01-01",
+        "institution": {
+          "name": "Udemy",
+          "description": "",
+          "URL": "https://www.udemy.com/certificate/UC-C6O8AX05/",
+          "image": {
+            "alt": "1626275253364.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/1d78ca03-8f95-4dfa-b401-f9bd81eb96bf_1626275253364.jpeg"
+          }
+        },
+        "linkedCompetences": [
+          {
+            "name": "JavaScript",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "unaccredited",
+        "degreeAchieved": true,
+        "name": "Programación de Aplicaciones distribuidas J2EE",
+        "startDate": "2007-02-01",
+        "finishDate": "2007-06-01",
+        "institution": {
+          "name": "Universidad Politécnica de Madrid",
+          "description": "Curso: Programación de Aplicaciones distribuidas J2EE (109 Horas)\nFacultad de Informática de la Universidad Politécnica de Madrid.\n• Principales materias o capacidades ocupacionales tratadas:\n- Servlets\n- JSP\n- EJBs\n- JBeans\n- Patrones de diseño\n- Servidor Apache-Tomcat\n- Servidor Jboss",
+          "image": {
+            "alt": "1519940485263.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/5314822e-df0d-4923-b82b-901bf7a6aff1_1519940485263.jpeg"
+          }
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Ingeniero técnico de Sistemas",
+        "startDate": "2004-11-01",
+        "finishDate": "2007-06-01",
+        "institution": {
+          "name": "Universidad Complutense de Madrid",
+          "description": "",
+          "image": {
+            "alt": "1519856536333.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/19fc9204-e9ea-430c-86f7-3e2a47f80822_1519856536333.jpeg"
+          }
         }
       }
     ]
