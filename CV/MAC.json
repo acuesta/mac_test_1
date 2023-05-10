@@ -142,6 +142,10 @@
   "knowledge": {
     "languages": [
       {
+        "name": "Arabic",
+        "level": "Professional working proficiency"
+      },
+      {
         "name": "Bulgarian",
         "level": "Limited working proficiency"
       },
