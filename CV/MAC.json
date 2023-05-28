@@ -9,12 +9,16 @@
       "name": "Alvaro",
       "surnames": "Cuesta Viñolo",
       "title": "Developer at manfred",
+      "description": "Developer at manfred since 2022",
       "avatar": {
-        "alt": "IMG_9390.jpg",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/22/5bcfaa8b-401a-42d1-98f8-0988d9fc17fe_img_9390.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/22/5bcfaa8b-401a-42d1-98f8-0988d9fc17fe_img_9390.jpg",
+        "alt": "IMG_9390.jpg"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API"
+        "notes": "Autocompleted using Google Maps API (id: ChIJgTwKgJcpQg0RaSKMYcHeNsQ)",
+        "country": "España",
+        "region": "Comunidad de Madrid",
+        "municipality": "Madrid"
       }
     }
   },
@@ -142,232 +146,22 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Arabic",
-        "level": "Professional working proficiency"
-      },
-      {
-        "name": "Bulgarian",
+        "name": "Búlgaro",
         "level": "Limited working proficiency"
       },
       {
-        "name": "Dutch",
+        "name": "Holandés",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "Árabe",
         "level": "Professional working proficiency"
       }
     ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Dropwizard",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Prototype",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Plastic SCM",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Navision",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Raspberry",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Real Time",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redmine",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Rest Assured",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "EJB",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Pandas",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenCMS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Pascal",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Power Query",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Natural",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Nest",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "React Native",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redis",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Remedy",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Metricool",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "EKS",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Odoo",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Objective-C",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PCI",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Plotly",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "NEO4J",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Ratpack",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Realm",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Rhinoceros",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redux",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
           "name": "D3",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "OpenERP",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "PostgreSQL",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "naxtis",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Elasticsearch",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "Redsys",
-          "type": "technology"
-        }
-      },
-      {
-        "skill": {
-          "name": "REST",
           "type": "technology"
         }
       },
@@ -379,25 +173,25 @@
       },
       {
         "skill": {
-          "name": "RabbitMQ",
+          "name": "Dropwizard",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "OpenGL",
+          "name": "EJB",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Power Pivot",
+          "name": "EKS",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Productboard",
+          "name": "Elasticsearch",
           "type": "technology"
         }
       },
@@ -409,19 +203,25 @@
       },
       {
         "skill": {
-          "name": "React",
+          "name": "Metricool",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "RedHat",
+          "name": "NEO4J",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "Redux-Saga",
+          "name": "Natural",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Navision",
           "type": "technology"
         }
       },
@@ -433,7 +233,199 @@
       },
       {
         "skill": {
-          "name": "XCode",
+          "name": "Nest",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Objective-C",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Odoo",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenCMS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenERP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "OpenGL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PCI",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pandas",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Pascal",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Plastic SCM",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Plotly",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "PostgreSQL",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power Pivot",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Power Query",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Productboard",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Prototype",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "REST",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RabbitMQ",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Raspberry",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Ratpack",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "React Native",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Real Time",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Realm",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "RedHat",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redis",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redmine",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redshift",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redsys",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Redux-Saga",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Remedy",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Rest Assured",
           "type": "technology"
         }
       },
@@ -445,160 +437,46 @@
       },
       {
         "skill": {
-          "name": "Redshift",
+          "name": "Rhinoceros",
           "type": "technology"
         }
-      }
-    ],
-    "studies": [
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "M040: New Features and Tools in MongoDB 4.0",
-        "startDate": "2018-10-01",
-        "institution": {
-          "name": "Mongodb",
-          "description": "",
-          "URL": "http://university.mongodb.com/course_completion/c0523d31-640f-4343-8e8d-fb1f8096",
-          "image": {
-            "alt": "1635171226731.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/2c5ef910-e86f-4cb7-8374-5fe0ce2ccec5_1635171226731.jpeg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          }
-        ]
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "Learn and Understand NodeJS",
-        "startDate": "2016-11-01",
-        "institution": {
-          "name": "Udemy",
-          "description": "",
-          "URL": "https://www.udemy.com/certificate/UC-KUOYM8RO/",
-          "image": {
-            "alt": "1626275253364.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/98b1d889-ebba-4e78-92e7-b5b572694ff8_1626275253364.jpeg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "NodeJS",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "MongoDB Atlas",
-        "startDate": "2016-09-01",
-        "institution": {
-          "name": "Mongodb",
-          "description": "",
-          "URL": "https://university.mongodb.com/course_completion/84bbddd240724df7aaca8cd174f268f9",
-          "image": {
-            "alt": "1635171226731.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/4c48a40c-a7e6-46d7-a19f-8bfc374fac55_1635171226731.jpeg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "MongoDB for Java Developers",
-        "startDate": "2016-08-01",
-        "institution": {
-          "name": "Mongodb",
-          "description": "",
-          "URL": "http://university.mongodb.com/course_completion/df2c0600d7fd479d8db9ab63f42b1382",
-          "image": {
-            "alt": "1635171226731.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/f8140ec7-1bca-41d1-a17d-6bc0c49c87bc_1635171226731.jpeg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "MongoDB",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": false,
-        "name": "JavaScript​: Understanding the Weird Parts",
-        "startDate": "2016-01-01",
-        "institution": {
-          "name": "Udemy",
-          "description": "",
-          "URL": "https://www.udemy.com/certificate/UC-C6O8AX05/",
-          "image": {
-            "alt": "1626275253364.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/1d78ca03-8f95-4dfa-b401-f9bd81eb96bf_1626275253364.jpeg"
-          }
-        },
-        "linkedCompetences": [
-          {
-            "name": "JavaScript",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "unaccredited",
-        "degreeAchieved": true,
-        "name": "Programación de Aplicaciones distribuidas J2EE",
-        "startDate": "2007-02-01",
-        "finishDate": "2007-06-01",
-        "institution": {
-          "name": "Universidad Politécnica de Madrid",
-          "description": "Curso: Programación de Aplicaciones distribuidas J2EE (109 Horas)\nFacultad de Informática de la Universidad Politécnica de Madrid.\n• Principales materias o capacidades ocupacionales tratadas:\n- Servlets\n- JSP\n- EJBs\n- JBeans\n- Patrones de diseño\n- Servidor Apache-Tomcat\n- Servidor Jboss",
-          "image": {
-            "alt": "1519940485263.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/5314822e-df0d-4923-b82b-901bf7a6aff1_1519940485263.jpeg"
-          }
+        "skill": {
+          "name": "XCode",
+          "type": "technology"
         }
       },
       {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Ingeniero técnico de Sistemas",
-        "startDate": "2004-11-01",
-        "finishDate": "2007-06-01",
-        "institution": {
-          "name": "Universidad Complutense de Madrid",
-          "description": "",
-          "image": {
-            "alt": "1519856536333.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/01/23/19fc9204-e9ea-430c-86f7-3e2a47f80822_1519856536333.jpeg"
-          }
+        "skill": {
+          "name": "naxtis",
+          "type": "technology"
         }
       }
     ]
   },
   "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "URL": "https://www.linkedin.com/in/alcuvi/",
+          "type": "linkedin"
+        }
+      ],
+      "contactMails": [
+        "alvaro.cuesta@getmanfred.com"
+      ]
+    },
     "status": "searchingActively"
   },
-  "asgardPreferences": {
+  "manfredSpecificData": {
     "mainStackTechs": [
       {
-        "name": "OpenCMS",
+        "name": "Metricool",
         "type": "technology"
       },
       {
-        "name": "Metricool",
+        "name": "OpenCMS",
         "type": "technology"
       }
     ]
