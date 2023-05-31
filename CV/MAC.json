@@ -57,6 +57,12 @@
     ],
     "recommendations": [
       {
+        "title": "other recommendations afadsad",
+        "authors": [{"title": "title", "name": "Tatiana asdasd", "surnames": "Vlaovic-Sorensen"}],
+        "type": "reading",
+        "URL": "htpps://www.reco.com"
+      },
+      {
         "title": "other recommendations",
         "authors": [{"title": "title", "name": "Tatiana", "surnames": "Vlaovic-Sorensen"}],
         "type": "reading",
