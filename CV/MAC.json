@@ -6,6 +6,7 @@
   },
   "aboutMe": {
     "profile": {
+      "name":"Ramona",
       "surnames": "Salinas Torres",
       "title": "Software Engineer STAGE",
       "description": "Prueba introduction STAGE",
@@ -33,7 +34,7 @@
     "relevantLinks": [
       {
         "type": "other",
-        "URL": "hts://www.website.com"
+        "URL": "https://www.website.com"
       },
       {
         "type": "other",
