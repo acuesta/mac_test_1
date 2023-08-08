@@ -6,13 +6,13 @@
   },
   "aboutMe": {
     "profile": {
-      "name":"Ramona",
+      "name": "Alvaro",
       "surnames": "Salinas Torres",
       "title": "Software Engineer STAGE",
       "description": "Prueba introduction STAGE",
       "avatar": {
-        "link": "https://media-asgard-stage.s3.eu-west-1.amazonaws.com/22/10/21/a5458d3c-c333-4939-92ab-6453de77960c_avatar-300x300.png",
-        "alt": "avatar-300x300.png"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/22/5bcfaa8b-401a-42d1-98f8-0988d9fc17fe_img_9390.jpg",
+        "alt": "IMG_9390.jpg"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJCb0mj8-hSQ0RPPLdlcRfGaQ)",
@@ -31,6 +31,36 @@
         "fact": "Olvetti"
       }
     ],
+    "recommendations": [
+      {
+        "title": "other recommendations",
+        "type": "reading",
+        "URL": "https://www.reco.com",
+        "authors": [
+          {
+            "name": "Tatiana",
+            "surnames": "Vlaovic-Sorensen",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "other recommendations afadsad",
+        "type": "reading",
+        "URL": "https://www.reco.com",
+        "authors": [
+          {
+            "name": "Tatiana",
+            "surnames": "asdasd Vlaovic-Sorensen",
+            "title": "Author"
+          }
+        ]
+      },
+      {
+        "title": "video recommended",
+        "type": "other"
+      }
+    ],
     "relevantLinks": [
       {
         "type": "other",
@@ -46,31 +76,11 @@
       },
       {
         "type": "other",
-        "URL": "https://www.github.com",
-        "description": "other"
+        "URL": "https://www.github.com"
       },
       {
         "type": "other",
-        "URL": "https://www.twitter.com",
-        "description": "other"
-      }
-    ],
-    "recommendations": [
-      {
-        "title": "other recommendations afadsad",
-        "authors": [{"title": "title", "name": "Tatiana asdasd", "surnames": "Vlaovic-Sorensen"}],
-        "type": "reading",
-        "URL": "https://www.reco.com"
-      },
-      {
-        "title": "other recommendations",
-        "authors": [{"title": "title", "name": "Tatiana", "surnames": "Vlaovic-Sorensen"}],
-        "type": "reading",
-        "URL": "https://www.reco.com"
-      },
-      {
-        "title": "video recommended",
-        "type": "web"
+        "URL": "https://www.twitter.com"
       }
     ]
   },
@@ -164,11 +174,11 @@
   "knowledge": {
     "languages": [
       {
-        "name": "Hebreo",
+        "name": "HE",
         "level": "Native or bilingual proficiency"
       },
       {
-        "name": "Japonés",
+        "name": "JP",
         "level": "Limited working proficiency"
       }
     ],
@@ -258,7 +268,7 @@
       ],
       "discardedCompetences": [
         {
-          "name": "Firebase",
+          "name": "Google Firebase",
           "type": "technology"
         }
       ],
@@ -280,6 +290,17 @@
     "projects": [
       {
         "name": "project name"
+      }
+    ],
+    "bookmarks": [
+      {
+        "name": "other recommendations"
+      },
+      {
+        "name": "other recommendations afadsad"
+      },
+      {
+        "name": "video recommended"
       }
     ]
   }
