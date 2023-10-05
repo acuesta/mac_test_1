@@ -188,6 +188,12 @@
           "name": "JavaScript",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -282,6 +288,10 @@
     "mainStackTechs": [
       {
         "name": "JavaScript",
+        "type": "technology"
+      },
+      {
+        "name": "NodeJS",
         "type": "technology"
       }
     ],
