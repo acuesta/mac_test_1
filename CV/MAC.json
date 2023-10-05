@@ -198,6 +198,12 @@
           "name": "NodeJS",
           "type": "technology"
         }
+      },
+      {
+        "skill": {
+          "name": "TypeScript",
+          "type": "technology"
+        }
       }
     ],
     "studies": [
@@ -296,6 +302,10 @@
       },
       {
         "name": "NodeJS",
+        "type": "technology"
+      },
+      {
+        "name": "TypeScript",
         "type": "technology"
       }
     ],
