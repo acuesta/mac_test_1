@@ -1,8 +1,8 @@
 {
-  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.5/schema/schema.json",
   "settings": {
     "language": "ES",
-    "MACVersion": "0.3"
+    "MACVersion": "0.5"
   },
   "aboutMe": {
     "profile": {
@@ -62,6 +62,10 @@
       }
     ],
     "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/alcuvi_2"
+      },
       {
         "type": "other",
         "URL": "https://www.website.com"
@@ -175,18 +179,22 @@
     "languages": [
       {
         "name": "EN",
+        "fullName": "Inglés",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "ES",
+        "fullName": "Español",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "HE",
+        "fullName": "Hebreo",
         "level": "Native or bilingual proficiency"
       },
       {
         "name": "JP",
+        "fullName": "Japonés",
         "level": "Limited working proficiency"
       }
     ],
