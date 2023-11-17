@@ -7,18 +7,16 @@
   "aboutMe": {
     "profile": {
       "name": "Alvaro",
-      "surnames": "Cuesta Viñolo 🚀",
-      "title": "Software Engineer STAGE",
-      "description": "Prueba introduction STAGE\n{\"ES\": \"🚀 Project manager | Data science + Digital and Strategic transformation 📊\"}",
+      "surnames": "Cuesta Viñolo",
+      "title": "Software Engineer en Manfred",
+      "description": "Mi stack desde principios de 2018: NodeJS, Docker, Mongo, AWS, git...",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/02/22/5bcfaa8b-401a-42d1-98f8-0988d9fc17fe_img_9390.jpg",
-        "alt": "IMG_9390.jpg"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/17/967092f4-db21-4cc0-9926-734e2c72070a_linkedin-photo-14886.linkedin-photo-14886",
+        "alt": "23/11/17/967092f4-db21-4cc0-9926-734e2c72070a_linkedin-photo-14886.linkedin-photo-14886"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJCb0mj8-hSQ0RPPLdlcRfGaQ)",
-        "country": "España",
-        "region": "Cantabria",
-        "municipality": "Prellezo"
+        "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
+        "country": "España"
       }
     },
     "interestingFacts": [
@@ -89,55 +87,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Manfred",
-          "URL": "https://www.getmanfred.com"
-        },
-        "roles": [
-          {
-            "name": "manfred developer",
-            "startDate": "2022-01-01",
-            "challenges": [
-              {
-                "description": "backend developer"
-              }
-            ],
-            "competences": [
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Payvision",
-          "URL": "https://www.payvision.com"
-        },
-        "roles": [
-          {
-            "name": "manfred developer",
-            "startDate": "2021-01-01",
-            "finishDate": "2022-02-14",
-            "challenges": [
-              {
-                "description": "node backend developer"
-              }
-            ],
-            "competences": [
-              {
-                "name": "NodeJS",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
