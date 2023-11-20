@@ -11,8 +11,8 @@
       "title": "Software Engineer en Manfred",
       "description": "Mi stack desde principios de 2018: NodeJS, Docker, Mongo, AWS, git...",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/20/c1b4905a-3275-4963-8948-82b28f2f9c0d_linkedin-photo-14886.linkedin-photo-14886",
-        "alt": "23/11/20/c1b4905a-3275-4963-8948-82b28f2f9c0d_linkedin-photo-14886.linkedin-photo-14886"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/20/210e4df3-ada1-40c1-b519-dd3a46dfcae5_linkedin-photo-14886.linkedin-photo-14886",
+        "alt": "23/11/20/210e4df3-ada1-40c1-b519-dd3a46dfcae5_linkedin-photo-14886.linkedin-photo-14886"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
@@ -87,6 +87,181 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Manfred",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/20/96e67043-19bb-4172-b6e1-6b3de90f901a_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/20/96e67043-19bb-4172-b6e1-6b3de90f901a_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Sotware Engineer",
+            "startDate": "2022-01-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Payvision",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/20/ec79fc7f-3832-4a85-b2c1-35cb5e58ff42_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/20/ec79fc7f-3832-4a85-b2c1-35cb5e58ff42_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2020-09-01",
+            "finishDate": "2022-01-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Klikin",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/20/2762ef09-73b2-4964-a408-c6e930e66b09_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/20/2762ef09-73b2-4964-a408-c6e930e66b09_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2018-04-01",
+            "finishDate": "2020-08-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TwoToForty (Matching personas and Business)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/20/b6f9018a-4900-4d6e-9d0b-be3db5127645_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/20/b6f9018a-4900-4d6e-9d0b-be3db5127645_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2016-12-01",
+            "finishDate": "2018-04-30",
+            "challenges": [
+              {
+                "description": "Desarrollo de una plataforma para la evaluación de empleados mediante cuestionarios individuales y cruzados.\nTecnologías empleadas: Java, Spring, Angular 2, AWS, mongo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DIGIBIS",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/20/f7d89986-70c7-4add-8bab-7ad12ea47be7_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/20/f7d89986-70c7-4add-8bab-7ad12ea47be7_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Consultor tecnológico",
+            "startDate": "2015-03-01",
+            "finishDate": "2016-12-31",
+            "challenges": [
+              {
+                "description": "- Introducción de las técnicas de Scrum y kanban como herramientas de desarrollo en el equipo.\n- Migración de la aplicación Digihub para adaptarla a las nuevas necesidades de los clientes.\n- Implementación de nueva funcionalidad sobre las aplicaciones Digihub, DigiArch y Digibib (recolector OAI-PMH, archivos y bibliotecas).\n- Definición de la arquitectura en el arranque de los proyectos nuevos.\n- Implementación de un API REST que cubra el modelo de préstamo bibliotecario.\n- Securización e integración del API REST con las aplicaciones actuales."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Autentia Real Business Solutions SL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/20/eafe8f0b-59b5-43b9-be2c-7183149655a5_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/20/eafe8f0b-59b5-43b9-be2c-7183149655a5_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Consultor tecnológico",
+            "startDate": "2010-04-01",
+            "finishDate": "2015-02-28",
+            "challenges": [
+              {
+                "description": "Desarrollo en equipos de arquitectura realizando las siguientes funciones:\n- Diseño e implementación de arquitecturas basadas en REST.\n- Diseño, modelado e implementación de recursos REST.\n- Participación en grupos de supervisión tanto del modelado de recursos como de la correcta implementación de los mismos.\n- Implantación de metologías ágiles: Scrum y Kanban.\n- Construcción de un simulador REST, capaz de funcionar en modo proxy junto con una aplicación para su administración.\n- Empleo de herramientas para el seguimiento de proyectos: JIRA, Greenhooper, Pivotal Tracker.\n\nTecnologías:\n- Java: Spring, Spring Security, JSF, Struts, EJBs, JPA, Spring ROO, Hibernate, Alfresco, Solr, Mule ESB, JMS.\n- Javascript: Backbone, Marionette, Require.\n- Web: HTML5, CSS3, Javascript, jQuery.\n- Gestión de la configuración: Maven, Ant.\n- Control de versiones: Git, Subversion, CVS, Accurev\n- Test automáticos y calidad de código: JUnit, Powermock, mockito, Selenium, Jenkins, JMeter.\n- Obtención de métricas para analizar la calidad del cógido: Sonar.\n- Bases de datos: Oracle, MySQL, PostgreSQL, SQL Server, Liquibase.\n- Servidores de aplicaciones/web: JBoss, Tomcat, Jetty."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Steria",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/20/984a1f72-6816-48a8-9bfa-8b77d80606d6_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/20/984a1f72-6816-48a8-9bfa-8b77d80606d6_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Analista - programador",
+            "startDate": "2008-09-01",
+            "finishDate": "2010-03-31",
+            "challenges": [
+              {
+                "description": "Desarrollo de diversos proyectos J2EE para la administración pública.\nConocimientos adquiridos:\n - Struts\n - JAXB\n - Axis2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GrupoCMC - CognicaseManagementConsulting",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/20/31a44311-7953-433d-96f4-e8dc92e8d4ed_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/20/31a44311-7953-433d-96f4-e8dc92e8d4ed_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Analista - programador",
+            "startDate": "2008-01-01",
+            "finishDate": "2008-09-30",
+            "challenges": [
+              {
+                "description": "Desarrollo de diversas funcionalidades en java para una aplicación web de juntas de accionistas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Nurun | Crazy Labs",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/20/0a12226c-61c7-43f0-9233-89009301296d_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/20/0a12226c-61c7-43f0-9233-89009301296d_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Becario - mantenimiento de BBDD",
+            "startDate": "2007-03-01",
+            "finishDate": "2007-09-30",
+            "challenges": [
+              {
+                "description": "Automatización de los procesos de carga de registros (extracción, modificación e inserción) en bases de datos (SQL Server y MySQL) mediante el lenguaje PHP y\nTransac/SQL para el mantenimiento y gestión de diversas páginas web.\n- Diseño de animaciones en Flash 8.\n- Creación de banners.\n- Integración de páginas web diseñadas en Flash con PHP mediante el lenguaje\nActionScript 2.0."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
