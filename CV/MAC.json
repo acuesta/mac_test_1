@@ -87,6 +87,173 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Nurun | Crazy Labs",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/4b4c1a7f-235c-4f53-984e-d4ac4ecc7152_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/4b4c1a7f-235c-4f53-984e-d4ac4ecc7152_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Becario - mantenimiento de BBDD",
+            "startDate": "2023-11-21",
+            "challenges": [
+              {
+                "description": "Automatización de los procesos de carga de registros (extracción, modificación e inserción) en bases de datos (SQL Server y MySQL) mediante el lenguaje PHP y\nTransac/SQL para el mantenimiento y gestión de diversas páginas web.\n- Diseño de animaciones en Flash 8.\n- Creación de banners.\n- Integración de páginas web diseñadas en Flash con PHP mediante el lenguaje\nActionScript 2.0."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "GrupoCMC - CognicaseManagementConsulting",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/4f66354a-20a4-4f49-8a06-2dc78a42ad12_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/4f66354a-20a4-4f49-8a06-2dc78a42ad12_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Analista - programador",
+            "startDate": "2023-11-21",
+            "challenges": [
+              {
+                "description": "Desarrollo de diversas funcionalidades en java para una aplicación web de juntas de accionistas."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Steria",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/a2623cc7-e7f4-4cbf-9d6b-34f822a2719f_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/a2623cc7-e7f4-4cbf-9d6b-34f822a2719f_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Analista - programador",
+            "startDate": "2023-11-21",
+            "challenges": [
+              {
+                "description": "Desarrollo de diversos proyectos J2EE para la administración pública.\nConocimientos adquiridos:\n - Struts\n - JAXB\n - Axis2"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Autentia Real Business Solutions SL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/355ead48-0679-4339-8237-f86af93c9859_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/355ead48-0679-4339-8237-f86af93c9859_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Consultor tecnológico",
+            "startDate": "2023-11-21",
+            "challenges": [
+              {
+                "description": "Desarrollo en equipos de arquitectura realizando las siguientes funciones:\n- Diseño e implementación de arquitecturas basadas en REST.\n- Diseño, modelado e implementación de recursos REST.\n- Participación en grupos de supervisión tanto del modelado de recursos como de la correcta implementación de los mismos.\n- Implantación de metologías ágiles: Scrum y Kanban.\n- Construcción de un simulador REST, capaz de funcionar en modo proxy junto con una aplicación para su administración.\n- Empleo de herramientas para el seguimiento de proyectos: JIRA, Greenhooper, Pivotal Tracker.\n\nTecnologías:\n- Java: Spring, Spring Security, JSF, Struts, EJBs, JPA, Spring ROO, Hibernate, Alfresco, Solr, Mule ESB, JMS.\n- Javascript: Backbone, Marionette, Require.\n- Web: HTML5, CSS3, Javascript, jQuery.\n- Gestión de la configuración: Maven, Ant.\n- Control de versiones: Git, Subversion, CVS, Accurev\n- Test automáticos y calidad de código: JUnit, Powermock, mockito, Selenium, Jenkins, JMeter.\n- Obtención de métricas para analizar la calidad del cógido: Sonar.\n- Bases de datos: Oracle, MySQL, PostgreSQL, SQL Server, Liquibase.\n- Servidores de aplicaciones/web: JBoss, Tomcat, Jetty."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "DIGIBIS",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/c333d26d-b6b9-4803-b96a-b426e39f6b76_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/c333d26d-b6b9-4803-b96a-b426e39f6b76_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Consultor tecnológico",
+            "startDate": "2023-11-21",
+            "challenges": [
+              {
+                "description": "- Introducción de las técnicas de Scrum y kanban como herramientas de desarrollo en el equipo.\n- Migración de la aplicación Digihub para adaptarla a las nuevas necesidades de los clientes.\n- Implementación de nueva funcionalidad sobre las aplicaciones Digihub, DigiArch y Digibib (recolector OAI-PMH, archivos y bibliotecas).\n- Definición de la arquitectura en el arranque de los proyectos nuevos.\n- Implementación de un API REST que cubra el modelo de préstamo bibliotecario.\n- Securización e integración del API REST con las aplicaciones actuales."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "TwoToForty (Matching personas and Business)",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/03a8b1de-d95e-446f-a67e-485db4b6c2d9_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/03a8b1de-d95e-446f-a67e-485db4b6c2d9_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2023-11-21",
+            "challenges": [
+              {
+                "description": "Desarrollo de una plataforma para la evaluación de empleados mediante cuestionarios individuales y cruzados.\nTecnologías empleadas: Java, Spring, Angular 2, AWS, mongo."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Klikin",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/9c565e1f-ed02-492b-83e8-c297de10f61a_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/9c565e1f-ed02-492b-83e8-c297de10f61a_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Payvision",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/1662935e-b24a-49a7-a560-ef86cd5dc394_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/1662935e-b24a-49a7-a560-ef86cd5dc394_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2023-11-21"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Manfred",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/0c5282fe-cd2b-4992-b59b-81165656a490_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/0c5282fe-cd2b-4992-b59b-81165656a490_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Sotware Engineer",
+            "startDate": "2023-11-21"
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
