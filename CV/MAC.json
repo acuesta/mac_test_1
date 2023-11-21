@@ -89,6 +89,170 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Manfred",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/60df4bd1-12ac-4252-beb8-fbe7f93fa7dd_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/60df4bd1-12ac-4252-beb8-fbe7f93fa7dd_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2022-06-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Cloud District",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/b5e6789a-ba1c-4203-b78a-839fd398c50b_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/b5e6789a-ba1c-4203-b78a-839fd398c50b_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Back End Developer",
+            "startDate": "2020-11-01",
+            "finishDate": "2022-06-30",
+            "challenges": [
+              {
+                "description": "My passion to deliver beautiful digital products drove me to CloudDistrict, in order to help local businesses conceptualize and build their digital product. \n\nWe successfully set up an AWS scalable solution to process and serve invoices for 5M users, using NodeJS (Lambdas), PostgreSQL, and AWS API Gateway.\n\nLeading projects as a team tech leader, focusing the team on delivering value to the clients.\n\nStandardize internal working workflows."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "POWEREXPLOSIVE S.L.",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/22ccc09e-0870-4ebe-b7dc-210f02fcedc1_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/22ccc09e-0870-4ebe-b7dc-210f02fcedc1_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Engineer",
+            "startDate": "2019-12-01",
+            "finishDate": "2020-10-31",
+            "challenges": [
+              {
+                "description": "I wanted to settle up for a while and my gym was looking for a personal development to improve repetitive tasks with software solutions.\n\nTaking the ownership of the entire development and making decisions based on the needs was the challenge I was looking for 😁."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Worldpackers",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/48944ffc-607f-484a-beaf-882f637c932d_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/48944ffc-607f-484a-beaf-882f637c932d_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Volunteer",
+            "startDate": "2019-09-01",
+            "finishDate": "2019-10-01",
+            "challenges": [
+              {
+                "description": "Traveling around in Italy I felt in love with Venice and Work in a Hostel where I learn a lot of human Relationships and empathy."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Greenfinch Technology Ltd",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/ec939b59-e3d4-40c5-80f5-2fd1007053c6_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/ec939b59-e3d4-40c5-80f5-2fd1007053c6_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2018-09-01",
+            "finishDate": "2019-04-30",
+            "challenges": [
+              {
+                "description": "We developed Mobile apps for local business in Ireland, taking requirements from clients and delivering beautiful apps."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "42 Silicon Valley",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/c48816d6-7e94-40c6-831e-83dfec7a23b3_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/c48816d6-7e94-40c6-831e-83dfec7a23b3_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "42 Sillicon Valley",
+            "startDate": "2018-03-01",
+            "finishDate": "2018-04-30",
+            "challenges": [
+              {
+                "description": "A Hackathon for a 4 weeks in California!? Yeah! i'm totally in! I was in the March piscine where you have your teammates, your computer and a lot of hours to do all the intense and infinite exercises in C that 42 throw it to you. \nTeamwork, fun and loves to technology needed =)"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Startup Weekend",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/b3d218c2-ee12-4a4b-988c-2bb552998585_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/b3d218c2-ee12-4a4b-988c-2bb552998585_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Volunteer",
+            "startDate": "2017-11-01",
+            "finishDate": "2017-12-01",
+            "challenges": [
+              {
+                "description": "What about to try to create a Startup in just 48 hours? Keep saying, try! and enjoy failing! Thats Startup Weekend about and its definitely its a life experience everyone should give a try, it doesnt matter who you are the important part is your opinnion its different and thats the key!\n\nAfter trying in March 2017 i decited to help in the making of and was huge fun! Working with the SW Team and trying to make the event posible was amazing experience."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ElevenPaths",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/21/e276d807-cd05-4997-88f7-bffcb2f3571f_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/11/21/e276d807-cd05-4997-88f7-bffcb2f3571f_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Software Developer",
+            "startDate": "2013-04-01",
+            "finishDate": "2018-03-31",
+            "challenges": [
+              {
+                "description": "2013 - 2016: Faast\nWe develop a Software as a Service (SaaS) of 24x7 Pentesting Service to detect threats before attackers do.\nI was implementing OSINT plugins and hacking techniques using C#.\nLearning the bases of design patterns and dealing with MongoDB.\n\n\n2016 - 2018: SealSign\nA biometric solution to securely sign documents.\nI was refactoring the style as a FrontEnd developer in ASP.Net and worked as a DevOps with Jenkins-Vagrant to automate all deployments and tasks"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
