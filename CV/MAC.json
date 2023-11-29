@@ -6,19 +6,17 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Maximiliano",
-      "surnames": "Serratosa Obladen",
-      "title": "Desarrollador Full Stack en PAX | DIGITAL MINDS",
-      "description": "Buena disposición al trabajo, amable y con don de gentes. Contribuyo a un trabajo en equipo bueno y eficiente. Aplico mis conocimientos para tratar de mejorar el rendimiento de la empresa. ",
+      "name": "Alvaro",
+      "surnames": "Cuesta Viñolo",
+      "title": "Software Engineer en Manfred",
+      "description": "Mi stack desde principios de 2018: NodeJS, Docker, Mongo, AWS, git...",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/29/68fde51c-e899-4377-8ccc-42433fe319a5_linkedin-photo-14886.linkedin-photo-14886",
-        "alt": "23/11/29/68fde51c-e899-4377-8ccc-42433fe319a5_linkedin-photo-14886.linkedin-photo-14886"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/29/9e83bafa-c5f2-4750-bf92-2f7b0648e0f4_linkedin-photo-14886.linkedin-photo-14886",
+        "alt": "23/11/29/9e83bafa-c5f2-4750-bf92-2f7b0648e0f4_linkedin-photo-14886.linkedin-photo-14886"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJHYtq6JkPnhIR5z1e-Vt-fmw)",
-        "country": "España",
-        "region": "Comunidad Valenciana",
-        "municipality": "Jávea"
+        "notes": "Autocompleted using Google Maps API (id: ChIJi7xhMnjjQgwR7KNoB5Qs7KY)",
+        "country": "España"
       }
     },
     "interestingFacts": [
@@ -89,153 +87,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "PAX | DIGITAL MINDS"
-        },
-        "roles": [
-          {
-            "name": "Programador full stack",
-            "startDate": "2022-01-01",
-            "challenges": [
-              {
-                "description": "Desarrollo y programación de páginas y aplicaciones web, plugins y scripts.\n\n- Maquetación web con HTML4 y HTML5, estilo CSS3 (responsive + flex/grid), Bootstrap y Materialize.\n- Programación Front con Javascript, conexiones asíncronas con AJAX y funciones diversas de JQuery (datepicker, carruseles de imágenes...)\n- Desarrollo y construcción de bases de datos MySQL (MariaDB) y noSQL (MongoDB)\n- Desarrollo de aplicaciones de consola y \"REST-Server\" con node.js\n- Desarrollo backend con PHP7 y PHP8: POO, CRUD, codigo limpio y principios SOLID\n- Webapps con Laravel y Bootstrap (webpack y vite)\n- Trabajo conjunto con diseñadores UX, entorno con métodos ágiles (Scrum)\n- Trabajo sobre GIT (crear repositorios, subirlos, clonarlos en diferentes ordenadores, trabajo en base a diferentes ramas...)\n- Trabajo con entorno Windows y Linux (Ubuntu)"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Hotel Daniya Denia Spa & Business",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/29/4c567f9e-18a0-40e6-8042-ffc242cdedd5_linkedin-photo-14886.linkedin-photo-14886",
-            "alt": "23/11/29/4c567f9e-18a0-40e6-8042-ffc242cdedd5_linkedin-photo-14886.linkedin-photo-14886"
-          }
-        },
-        "roles": [
-          {
-            "name": "Recepcionista",
-            "startDate": "2019-12-01"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Hotel el Bichet"
-        },
-        "roles": [
-          {
-            "name": "Jefe de recepción",
-            "startDate": "2018-02-01",
-            "finishDate": "2019-10-31"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Hotel Bodega El Juncal"
-        },
-        "roles": [
-          {
-            "name": "Jefe de recepción",
-            "startDate": "2016-09-01",
-            "finishDate": "2017-11-30",
-            "challenges": [
-              {
-                "description": "Responsable del departamento de recepción (4 personas a cargo). Coordinación y dirección con otros departamentos (Dirección, pisos, y restaurante). Relación directa con dirección. Labores de estudio de mercado y recepción. Elaborado de cuadrantes de turnos mensuales y anuales de vacaciones del personal. Responsable de contratación de nuevo personal para el departamento de recepción. Resolución de quejas de clientes."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Hotel Virgen de los Reyes **"
-        },
-        "roles": [
-          {
-            "name": "Recepcionista",
-            "startDate": "2015-01-01",
-            "finishDate": "2016-01-01",
-            "challenges": [
-              {
-                "description": "Recepción y agente de reservas. Check-in/out, caja, variación turnos (mañana, tarde y noche) gestión y organización de reservas, admisión y facturación. Cambio de tarifas y disponibilidad en diferentes portales de internet. Atención al cliente. Comunicación y coordinación entre departamentos. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Hotel Acinipo ****"
-        },
-        "roles": [
-          {
-            "name": "Recepcionista",
-            "startDate": "2012-01-01",
-            "finishDate": "2015-01-01",
-            "challenges": [
-              {
-                "description": "Tareas propias de recepción y gestión de reservas ."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Hotel Don Miguel ***"
-        },
-        "roles": [
-          {
-            "name": "Recepcionista",
-            "startDate": "2011-06-01",
-            "finishDate": "2011-09-30",
-            "challenges": [
-              {
-                "description": "Cubriendo vacaciones del personal de recepción. Check-in/out, caja, gestión y organización de reservas, admisión y facturación. "
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "JENOPTIK AG"
-        },
-        "roles": [
-          {
-            "name": "Empleado en prácticas",
-            "startDate": "2011-01-01",
-            "finishDate": "2011-04-30",
-            "challenges": [
-              {
-                "description": "Zeugnis ESW-Wedel.pdf"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Hotel Don Miguel ***"
-        },
-        "roles": [
-          {
-            "name": "Recepcionista",
-            "startDate": "2010-06-01",
-            "finishDate": "2010-09-30",
-            "challenges": [
-              {
-                "description": "Cubriendo vacaciones del personal de recepción. Check-in/out, caja, gestión y organización de reservas, admisión y facturación. "
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
