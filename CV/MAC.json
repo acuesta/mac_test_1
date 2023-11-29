@@ -11,8 +11,8 @@
       "title": "Desarrollador Full Stack en PAX | DIGITAL MINDS",
       "description": "Buena disposición al trabajo, amable y con don de gentes. Contribuyo a un trabajo en equipo bueno y eficiente. Aplico mis conocimientos para tratar de mejorar el rendimiento de la empresa. ",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/29/856b38f7-4987-453a-9ce9-2c78e9fb025c_linkedin-photo-14886.linkedin-photo-14886",
-        "alt": "23/11/29/856b38f7-4987-453a-9ce9-2c78e9fb025c_linkedin-photo-14886.linkedin-photo-14886"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/11/29/1bbedbe7-6055-425b-875b-a35f7df2ca15_linkedin-photo-14886.linkedin-photo-14886",
+        "alt": "23/11/29/1bbedbe7-6055-425b-875b-a35f7df2ca15_linkedin-photo-14886.linkedin-photo-14886"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJHYtq6JkPnhIR5z1e-Vt-fmw)",
@@ -129,6 +129,11 @@
   "knowledge": {
     "languages": [
       {
+        "name": "DE",
+        "fullName": "Alemán",
+        "level": "Full professional proficiency"
+      },
+      {
         "name": "EN",
         "fullName": "Inglés",
         "level": "Full professional proficiency"
@@ -137,6 +142,21 @@
         "name": "ES",
         "fullName": "Español",
         "level": "Native or bilingual proficiency"
+      },
+      {
+        "name": "IT",
+        "fullName": "Italiano",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "PT",
+        "fullName": "Portugués",
+        "level": "Limited working proficiency"
+      },
+      {
+        "name": "RU",
+        "fullName": "Ruso",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
