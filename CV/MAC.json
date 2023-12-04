@@ -11,8 +11,8 @@
       "title": "Frontend Engineer",
       "description": "Mi stack desde principios de 2018: NodeJS, Docker, Mongo, AWS, git...",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/80b72f22-dcf0-4d2b-b197-683869eaf4a2_linkedin-photo-14886.linkedin-photo-14886",
-        "alt": "23/12/04/80b72f22-dcf0-4d2b-b197-683869eaf4a2_linkedin-photo-14886.linkedin-photo-14886"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/097e10dd-2ead-4830-8f57-0309abd6ea0a_linkedin-photo-14886.linkedin-photo-14886",
+        "alt": "23/12/04/097e10dd-2ead-4830-8f57-0309abd6ea0a_linkedin-photo-14886.linkedin-photo-14886"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
@@ -129,9 +129,19 @@
   "knowledge": {
     "languages": [
       {
+        "name": "CA",
+        "fullName": "Catalán",
+        "level": "Professional working proficiency"
+      },
+      {
+        "name": "CA",
+        "fullName": "Valenciano",
+        "level": "Professional working proficiency"
+      },
+      {
         "name": "EN",
         "fullName": "Inglés",
-        "level": "Full professional proficiency"
+        "level": "Professional working proficiency"
       },
       {
         "name": "ES",
