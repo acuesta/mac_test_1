@@ -89,6 +89,67 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Selio.com"
+        },
+        "roles": [
+          {
+            "name": "CTO | Software Engineer",
+            "startDate": "2017-04-01",
+            "finishDate": "2023-11-30",
+            "challenges": [
+              {
+                "description": "Social marketplace for buying and selling second hand items in Portugal. This startup is based in Madrid."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Adoos Networks SRL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/7ba806b4-f477-4e70-a571-4a69c2411080_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/12/04/7ba806b4-f477-4e70-a571-4a69c2411080_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "CTO",
+            "startDate": "2010-04-01",
+            "finishDate": "2017-04-30",
+            "challenges": [
+              {
+                "description": "• CTO at a software factory, leading over 30 professionals in the development of high-traffic classified websites and CRM tools, serving millions of users.\n• Prior role as a Full Stack Developer, refining skills in both front-end and back-end development.\n• Transition from Full Stack Developer to CTO, leveraging development experience for effective leadership.\n• My role involved enhancing performance with advanced tech stacks, such as Laravel, React, Node, MySQL, ElasticSearch and Lucene."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Adoos Networks SRL",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/c17b9468-efb6-4d51-92f3-e99ec2accc0f_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/12/04/c17b9468-efb6-4d51-92f3-e99ec2accc0f_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2006-03-01",
+            "finishDate": "2010-04-30",
+            "challenges": [
+              {
+                "description": "• I developed a Craigslist-style classifieds website with over 30 million users per month.\n• I created a solution to manage the scalability, utilizing PHP, Memcached, Lucene & Mysql to ensure handling of the user traffic.\n• I personally coded the majority of the software and played a key role in keeping the website running smoothly.\n• Increased traffic and conversions by 400% by developing a web app and back office management.\n• Defined the architecture to transition from a simple PHP file to Laravel, facilitating a migration to a more robust framework.\n• Reduced hosting costs by implementing Amazon AWS."
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
