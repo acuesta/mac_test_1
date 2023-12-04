@@ -11,8 +11,8 @@
       "title": "Frontend Engineer",
       "description": "Mi stack desde principios de 2018: NodeJS, Docker, Mongo, AWS, git...",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/097e10dd-2ead-4830-8f57-0309abd6ea0a_linkedin-photo-14886.linkedin-photo-14886",
-        "alt": "23/12/04/097e10dd-2ead-4830-8f57-0309abd6ea0a_linkedin-photo-14886.linkedin-photo-14886"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/fce5a44a-bafa-4285-aabe-82907f9d9202_linkedin-photo-14886.linkedin-photo-14886",
+        "alt": "23/12/04/fce5a44a-bafa-4285-aabe-82907f9d9202_linkedin-photo-14886.linkedin-photo-14886"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJ5TCOcRaYpBIRCmZHTz37sEQ)",
@@ -89,6 +89,172 @@
     ]
   },
   "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "TalentBait",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/c4fc6bb2-a6e4-4116-9aac-ff46aa797f0a_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/12/04/c4fc6bb2-a6e4-4116-9aac-ff46aa797f0a_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2022-11-01",
+            "finishDate": "2023-10-31",
+            "challenges": [
+              {
+                "description": "About the project\n· Talentbait is a social media recruiting company that allows you to manage job postings in a lot of different social networks (Instagram, TikTok, Facebook, Reddit, etc) and manage the candidate's applications, communications, etc\n\nAbout my role in the project\n· Create new features, new projects from scratch, and new iterations of the current business apps\n· Improve the main application with new tools, and good practices, to cover and upgrade it\n· Separate and decouple the monolith application into different projects according to their contexts \n· Cover with tests new developments and critical parts of the application\n· Interview, evaluate skills, and hire javascript developers and support them in their different stages\n\nAbout the tech stack\n· Javascript ES6, Node.js, Express, Firebase, React, JSX, Jest, React Testing Library, NPM, Webpack, Git, Github, Heroku, Doppler, Datadog, OpenAI"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Stayforlong.com",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/4449d7b2-e6a6-494b-8429-73aed0954e92_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/12/04/4449d7b2-e6a6-494b-8429-73aed0954e92_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Engineer Manager",
+            "startDate": "2018-09-01",
+            "finishDate": "2022-02-28",
+            "challenges": [
+              {
+                "description": "About the project\n· Stayforlong is a hotel reservation website specialized in bookings for 3 nights or more\n\nAbout my role in the project\n· Migrate web project to new tech stack (next, react, redux, sagas, ...)\n· Separate and decouple client to consume from APIs\n· Create battery of unit tests and end to end tests to ensure a reliable migration\n· Manage tech work, tasks and priorities of the developers to reach to business requirements\n· Interview, evaluate skills and hire javascript developers and support them in their different stages\n\nAbout the tech stack\n· Javascript ES6, Next, React, Redux, Sagas, JSX, Jest, NPM, Webpack, Docker, Git, Github"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Trovit",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/75a0acb1-bd64-467f-b0d5-97e61f4b1f12_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/12/04/75a0acb1-bd64-467f-b0d5-97e61f4b1f12_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Full Stack Developer",
+            "startDate": "2015-05-01",
+            "finishDate": "2018-09-30",
+            "challenges": [
+              {
+                "description": "About the project\n· Works over a project with more than 100 millions of visits by month\n· Present in 58 different countries and 4 verticals (homes, cars, jobs and products)\n· Project with very sensitive requirements of performance, seo, sem, advertising, scalability, etc\n\nWEB PWA Team\n\nAbout my role in the project\n· Migration and refactor the older monolithic project to a completely new technology stack\n· Modularize components using selectors, reducers, actions to help maintenance of the code\n· Prepare client to consume from the new APIs the core information of the business\n· Create unit tests by component and business logic units\n· Monitoring responses times, apis calls, errors, redis to ensure the stability of the site\n· Integration powerful PWA features and SPA improvements over the new project\n· Manage tech work, tasks and priorities of the developers to reach to the requests of CTO\n\nAbout the tech stack\n· NodeJS, Express, NextJS, Redis, Javascript ES6, React, Redux, Sagas, JSX, Jest, Flow, NPM, Webpack, Docker, Kubernetes, Git, Gitlab\n\n\nWEB PHP TEAM\n\nAbout my role in the project\n· Development new products and features to increase business oportunities\n· AB Testing and measurement the product impact to avoid compromising business results\n· Improvement main pages of the company, getting better performance (business and tech)\n· Building reusable products like user feedback, user account, related ads, etc\n· Development from scratch all views and features for Trovit rebranding\n· Work to support a lot of different devices and connections because the presence in so many countries\n\nAbout the tech stack\n· PHP, Solr, MySQL, HTML5, CSS3, SASS, Javascript, Jquery, Backbone, RequireJS, Bower, Grunt, Git, Github, Gitlab"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Betabeers",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/4a1e2133-a31d-4b33-8602-02497ace18e0_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/12/04/4a1e2133-a31d-4b33-8602-02497ace18e0_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Organizer and collaborator",
+            "startDate": "2014-01-01",
+            "finishDate": "2014-12-31",
+            "challenges": [
+              {
+                "description": "About the event\n· Betabeers is an event to attend tech talks, know startups and meet people of these sectors\n· They have a huge community of developers around all the country \n· The event is focused on sharing tech knowlegde and promote startups and tech jobs\n\nAbout my role in the project\n· Find and contact with speakers, startups and partners and set the schedule\n· Manage and update social networks to promote the events\n· Participate actively in the presentation and development of the talks"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "The White Flats",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/c00daee4-d37a-4020-84ae-e5cb0091ee0b_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/12/04/c00daee4-d37a-4020-84ae-e5cb0091ee0b_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend developer",
+            "startDate": "2013-09-01",
+            "finishDate": "2013-10-31",
+            "challenges": [
+              {
+                "description": "About the company\n· The White Flats is a vacational rental apartments website\n· They use a private CMS to manage the customers accommodation calendar and the website\n\nAbout my role in the project\n· Update website according design and product requirements styling and creating new features\n· Development features to improve searching and connect website with a partners platform\n· Refactor and modularize styles using SASS preprocessor\n\nAbout the tech stack\n· XHTML, CSS3, SASS, Javascript, Jquery, Git, Bitbucket"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Fancybox",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/19b7b1cc-b57f-4924-9b19-b872e91b5ad5_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/12/04/19b7b1cc-b57f-4924-9b19-b872e91b5ad5_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2013-04-01",
+            "finishDate": "2015-05-31",
+            "challenges": [
+              {
+                "description": "About the project\n· Cosmetics ecommerce multi country with a backoffice to the country managers\n· Company with tech team based in Barcelona and presence in 5 countries + 1 shop extra\n· Brand with strong marketing campaigns and traffic peaks by LATAM media\n· Startup part of Antai Venture Builder tech companies ecosystem\n\nAbout my role in the project\n· Development features to marketing, improvement and maintenance the ecommerce\n· Create tools to manage contests, promotions, referal programs and other adquisition features\n· Build a product feed tool to the country managers had updated info of prices and products\n· Automate reports of sales, visits, conversions and main KPIs\n· Migration and refactor mobile and desktop frontend according to rebranding guidelines\n\nAbout the tech stack\n· PHP, Symfony2, ElasticSearch, MySQL, Twig, HTML5, CSS3, SASS, Bootstrap, Javascript, Jquery, Backbone, Git, Github"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "PEOPLEWINGS"
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2012-12-01",
+            "finishDate": "2013-05-31",
+            "challenges": [
+              {
+                "description": "About the company\n· Peoplewings is a social network application to share accommodation, cars and meet people\n· Ambitious project with a very good tech stack placed in Barcelona Activa environment\n\nAbout my role in the project\n· Development the layout and features styling of the application according to design\n· Make the website responsive to support tablet and mobile devices\n· Development features to allow the users comunicate though the platform\n\nAbout the tech stack\n· Python, Djanjo, PostgreSQL, Heroku, HTML5, CSS3, SASS, Bootstrap, Javascript, Jquery, Backbone, RequireJS, Git, Github, Bitbucket"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "UserZoom",
+          "image": {
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/7ed66adf-99fc-492d-9d90-03fe46aa5409_linkedin-photo-14886.linkedin-photo-14886",
+            "alt": "23/12/04/7ed66adf-99fc-492d-9d90-03fe46aa5409_linkedin-photo-14886.linkedin-photo-14886"
+          }
+        },
+        "roles": [
+          {
+            "name": "Frontend Developer",
+            "startDate": "2012-09-01",
+            "finishDate": "2012-12-31",
+            "challenges": [
+              {
+                "description": "About the company\n· Userzoom is a platform to diagnostic the UX of websites monitoring and testing real users\n· They retrieve a lot information and show you in a detailed and categorized reports\n· The company has huge clients as Microsoft, Coca-Cola or Facebook using their products\n· The project require a strict control of W3C standars and accesibility to support users with all kind of devices\n\nAbout my role in the project\n· Development features to improve the platform\n· Reporting and bug fixing\n· Development and layout markup of a WordPress corporative blog \n· Testing new features helping the work of QA\n· Updates to cross browsing support IE6+, Firefox 3.5+, Opera and Safari\n\nAbout the tech stack\n· PHP, WordPress, HTML4/5, XHTML, W3C Standards, CSS2/3, SASS, Nanoc, Javascript, Jquery, Git"
+              }
+            ]
+          }
+        ]
+      }
+    ],
     "projects": [
       {
         "details": {
