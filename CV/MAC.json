@@ -6,19 +6,19 @@
   },
   "aboutMe": {
     "profile": {
-      "name": "Alex",
-      "surnames": "Nemirovsky",
-      "title": "full stack developer | product owner | react | node | flutter",
-      "description": "I'm Alex, a Senior Full Stack Developer and Product Owner with over 15 years of experience, specializing in Next.js, Flutter, Angular, Google Cloud, and AWS. My expertise also extends to SEO/SEM and online marketing. Throughout my career, I've led teams and co-founded two startups. Notably, I single-handedly developed a website that attracted over 30 million visitors, underscoring my passion for programming and my ability to deliver impactful solutions independently.",
+      "name": "𝗗𝗮𝗻𝗶𝗲𝗹",
+      "surnames": "𝗠𝗲𝗻𝗮 𝗥𝗼𝗱𝗿𝗶𝗴𝘂𝗲𝘇",
+      "title": "🎓 𝗘𝘀𝘁𝘂𝗱𝗶𝗮𝗻𝘁𝗲 𝗲𝗻 𝟰𝟮 𝗠𝗮́𝗹𝗮𝗴𝗮 | 🛡️ 𝗘𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁𝗮 𝗝𝗿. 𝗲𝗻 𝗖𝗶𝗯𝗲𝗿𝘀𝗲𝗴𝘂𝗿𝗶𝗱𝗮𝗱 | 💻 𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗝𝘂𝗻𝗶𝗼𝗿",
+      "description": "Tengo una gran curiosidad innata, con capacidad de trabajo, exigente, perfeccionista y con empatía.\nMi tendencia a aprender e intentar mejorar, hace que quiera explorar nuevos horizontes, lo que hace emerger en mi una necesidad latente en evolución constante y aprendizaje continuo.\n\nApasionado del conocimiento y crecimiento en IT, con titulación y conocimientos en ciclo superior de Desarrollo de Aplicaciones Multiplataforma y en continúo desarrollo. Actualmente sigo desarrollándome en ciberseguridad y en el campus de 42 desarrollando las soft skills. Buenas capacidades para la cooperación, resolutivo, disciplinado y enfocado a objetivos.\n\nEstoy en interesado en formar parte de proyectos que busquen personas comprometidas en el IT",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/fce5a44a-bafa-4285-aabe-82907f9d9202_linkedin-photo-14886.linkedin-photo-14886",
-        "alt": "23/12/04/fce5a44a-bafa-4285-aabe-82907f9d9202_linkedin-photo-14886.linkedin-photo-14886"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/5e3705b5-3691-4a81-a7f8-c9908d4e3010_linkedin-photo-14886.linkedin-photo-14886",
+        "alt": "23/12/04/5e3705b5-3691-4a81-a7f8-c9908d4e3010_linkedin-photo-14886.linkedin-photo-14886"
       },
       "location": {
-        "notes": "Autocompleted using Google Maps API (id: ChIJvQz5TjvKvJURh47oiC6Bs6A)",
-        "country": "Argentina",
-        "region": "Buenos Aires",
-        "municipality": "Buenos Aires"
+        "notes": "Autocompleted using Google Maps API (id: ChIJLSHbT8RZcg0RzzLKyZLcJWA)",
+        "country": "España",
+        "region": "Andalucía",
+        "municipality": "Málaga"
       }
     },
     "interestingFacts": [
@@ -64,7 +64,7 @@
     "relevantLinks": [
       {
         "type": "linkedin",
-        "URL": "https://linkedin.com/in/alexnemi"
+        "URL": "https://linkedin.com/in/danielmenarodriguez"
       },
       {
         "type": "other",
@@ -89,67 +89,6 @@
     ]
   },
   "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Selio.com"
-        },
-        "roles": [
-          {
-            "name": "CTO | Software Engineer",
-            "startDate": "2017-04-01",
-            "finishDate": "2023-11-30",
-            "challenges": [
-              {
-                "description": "Social marketplace for buying and selling second hand items in Portugal. This startup is based in Madrid."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Adoos Networks SRL",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/7ba806b4-f477-4e70-a571-4a69c2411080_linkedin-photo-14886.linkedin-photo-14886",
-            "alt": "23/12/04/7ba806b4-f477-4e70-a571-4a69c2411080_linkedin-photo-14886.linkedin-photo-14886"
-          }
-        },
-        "roles": [
-          {
-            "name": "CTO",
-            "startDate": "2010-04-01",
-            "finishDate": "2017-04-30",
-            "challenges": [
-              {
-                "description": "• CTO at a software factory, leading over 30 professionals in the development of high-traffic classified websites and CRM tools, serving millions of users.\n• Prior role as a Full Stack Developer, refining skills in both front-end and back-end development.\n• Transition from Full Stack Developer to CTO, leveraging development experience for effective leadership.\n• My role involved enhancing performance with advanced tech stacks, such as Laravel, React, Node, MySQL, ElasticSearch and Lucene."
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Adoos Networks SRL",
-          "image": {
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/c17b9468-efb6-4d51-92f3-e99ec2accc0f_linkedin-photo-14886.linkedin-photo-14886",
-            "alt": "23/12/04/c17b9468-efb6-4d51-92f3-e99ec2accc0f_linkedin-photo-14886.linkedin-photo-14886"
-          }
-        },
-        "roles": [
-          {
-            "name": "Full Stack Developer",
-            "startDate": "2006-03-01",
-            "finishDate": "2010-04-30",
-            "challenges": [
-              {
-                "description": "• I developed a Craigslist-style classifieds website with over 30 million users per month.\n• I created a solution to manage the scalability, utilizing PHP, Memcached, Lucene & Mysql to ensure handling of the user traffic.\n• I personally coded the majority of the software and played a key role in keeping the website running smoothly.\n• Increased traffic and conversions by 400% by developing a web app and back office management.\n• Defined the architecture to transition from a simple PHP file to Laravel, facilitating a migration to a more robust framework.\n• Reduced hosting costs by implementing Amazon AWS."
-              }
-            ]
-          }
-        ]
-      }
-    ],
     "projects": [
       {
         "details": {
@@ -285,7 +224,7 @@
     "contact": {
       "publicProfiles": [
         {
-          "URL": "https://linkedin.com/in/alexnemi",
+          "URL": "https://linkedin.com/in/danielmenarodriguez",
           "type": "linkedin"
         }
       ],
