@@ -11,8 +11,8 @@
       "title": "🎓 𝗘𝘀𝘁𝘂𝗱𝗶𝗮𝗻𝘁𝗲 𝗲𝗻 𝟰𝟮 𝗠𝗮́𝗹𝗮𝗴𝗮 | 🛡️ 𝗘𝘀𝗽𝗲𝗰𝗶𝗮𝗹𝗶𝘀𝘁𝗮 𝗝𝗿. 𝗲𝗻 𝗖𝗶𝗯𝗲𝗿𝘀𝗲𝗴𝘂𝗿𝗶𝗱𝗮𝗱 | 💻 𝗗𝗲𝘀𝗮𝗿𝗿𝗼𝗹𝗹𝗮𝗱𝗼𝗿 𝗱𝗲 𝗦𝗼𝗳𝘁𝘄𝗮𝗿𝗲 𝗝𝘂𝗻𝗶𝗼𝗿",
       "description": "Tengo una gran curiosidad innata, con capacidad de trabajo, exigente, perfeccionista y con empatía.\nMi tendencia a aprender e intentar mejorar, hace que quiera explorar nuevos horizontes, lo que hace emerger en mi una necesidad latente en evolución constante y aprendizaje continuo.\n\nApasionado del conocimiento y crecimiento en IT, con titulación y conocimientos en ciclo superior de Desarrollo de Aplicaciones Multiplataforma y en continúo desarrollo. Actualmente sigo desarrollándome en ciberseguridad y en el campus de 42 desarrollando las soft skills. Buenas capacidades para la cooperación, resolutivo, disciplinado y enfocado a objetivos.\n\nEstoy en interesado en formar parte de proyectos que busquen personas comprometidas en el IT",
       "avatar": {
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/5e3705b5-3691-4a81-a7f8-c9908d4e3010_linkedin-photo-14886.linkedin-photo-14886",
-        "alt": "23/12/04/5e3705b5-3691-4a81-a7f8-c9908d4e3010_linkedin-photo-14886.linkedin-photo-14886"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/23/12/04/c6974fc4-8a32-46f9-939d-a810444fb2bd_linkedin-photo-14886.linkedin-photo-14886",
+        "alt": "23/12/04/c6974fc4-8a32-46f9-939d-a810444fb2bd_linkedin-photo-14886.linkedin-photo-14886"
       },
       "location": {
         "notes": "Autocompleted using Google Maps API (id: ChIJLSHbT8RZcg0RzzLKyZLcJWA)",
@@ -127,28 +127,6 @@
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "CA",
-        "fullName": "Catalán",
-        "level": "Professional working proficiency"
-      },
-      {
-        "name": "CA",
-        "fullName": "Valenciano",
-        "level": "Professional working proficiency"
-      },
-      {
-        "name": "EN",
-        "fullName": "Inglés",
-        "level": "Professional working proficiency"
-      },
-      {
-        "name": "ES",
-        "fullName": "Español",
-        "level": "Native or bilingual proficiency"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
